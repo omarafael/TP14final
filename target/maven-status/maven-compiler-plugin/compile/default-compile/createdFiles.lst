@@ -1,0 +1,13 @@
+configuracion\Configuracion.class
+puntuacion\Puntuacion.class
+PronosticosDeportivos\Ronda.class
+excepciones\ExcepcionIntegridadDeDatos.class
+PronosticosDeportivos\ResultadoEnum$Resultado.class
+PronosticosDeportivos\Fase.class
+PronosticosDeportivos\Pronosticos.class
+PronosticosDeportivos\ResultadoEnum.class
+PronosticosDeportivos\Equipo.class
+PronosticosDeportivos\Partido.class
+configuracion\ConectarDB.class
+PronosticosDeportivos\Principal.class
+PronosticosDeportivos\Participante.class

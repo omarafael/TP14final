@@ -1,0 +1,4 @@
+DB;jdbc:mysql://localhost:3306/pronosticos
+Puntos por acierto;2
+Puntos extra por acierto en Ronda completa;10
+Puntos extra por acierto en Fase completa;20
